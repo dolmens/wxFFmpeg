@@ -1,0 +1,6 @@
+[submodule "dep/glew"]
+	path = dep/glew
+	url = https://github.com/nigels-com/glew.git
+[submodule "dep/openal-soft"]
+	path = dep/openal-soft
+	url = https://github.com/kcat/openal-soft.git
